@@ -1,4 +1,4 @@
-![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:828/0*Yiwgrz_nSIbmbieA.gif)
 <h1 align="center">Hi 👋, I'm sameh</h1>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*Yiwgrz_nSIbmbieA.gif">
 
