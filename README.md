@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:828/0*Yiwgrz_nSIbmbieA.gif)
 <h1 align="center">Hi 👋, I'm sameh</h1>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*Yiwgrz_nSIbmbieA.gif">
+<img align="right" alt="coding" width="600" src="https://miro.medium.com/v2/resize:fit:828/0*Yiwgrz_nSIbmbieA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elma7y&label=Profile%20views&color=329d0b&style=flat-square" alt="elma7y" /> </p>
 
